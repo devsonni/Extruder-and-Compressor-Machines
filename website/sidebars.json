@@ -1,0 +1,65 @@
+{
+  "academy-sidebar": {
+    "1. Intro": ["intro"],
+    "2. Plastic": ["plastic/basics"],
+    "3. Build": [
+      "build",
+      "build/shredder",
+      "build/extrusion",
+      "build/injection",
+      "build/compression",
+      {
+      "label": "Shredder Pro",
+      "type": "subcategory",
+      "ids": [
+        "build/shredderpro",
+        "build/shredderprobuild",
+        "build/shredderprorun"
+        ]
+      },
+      {
+        "label": "Extrusion Pro",
+        "type": "subcategory",
+        "ids": [
+          "build/extrusionpro",
+          "build/extrusionprobuild",
+          "build/extrusionprorun"
+        ]
+      },
+      {
+        "label": "Sheetpress",
+        "type": "subcategory",
+        "ids": [
+          "build/sheetpress",
+          "build/sheetpressbuild",
+          "build/sheetpressrun"
+
+        ]
+      }
+    ],
+    "4. Collect": ["collect"],
+    "6. Business": [
+      "business",
+      "business/actionplan",
+      "business/workspacecalculator",
+      "business/businessplan",
+      {
+      "label": "Bazar",
+      "type": "subcategory",
+      "ids": [
+        "business/bazar",
+	      "business/Account_Setup",
+        "business/Connect_Stripe",
+        "business/Image_Size_Guidelines",
+	      "business/International_Shipping",
+	      "business/regions"
+        ]
+      }
+
+    ],
+    "3. Extrusion": ["extrusionpro"],
+    "4. Compression": ["compression"],
+    "📦 Download": ["download"],
+    "💬 Questions?": ["support/faq", "support/chat"]
+  }
+}
