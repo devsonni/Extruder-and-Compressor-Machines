@@ -58,3 +58,4 @@ Different parts of this project are under different license conditions
 - **Code:** Code license for the academy site is [GPL-3.0 License](https://github.com/ONEARMY/academy/blob/master/LICENSE).
 "# Extruder-and-Compressor-Machines" 
 "# Extruder-and-Compressor-Machines" 
+"# Extruder-and-Compressor-Machines" 
